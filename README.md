@@ -1,7 +1,7 @@
 # Break Time
 ## Water reminder notification
 
-- 1 #pip install plyer
+-1  #pip install plyer
 
 This line is a comment, not code to be executed.
 It's a Python package installation command that you'd run in your terminal or command prompt.
